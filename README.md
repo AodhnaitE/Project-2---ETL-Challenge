@@ -1,7 +1,8 @@
 # Project-2---ETL-Challenge
+
 Data Analytics Bootcamp - Project 2
 
-ETL_Challenge
+ETL Challenge
 
 It all began when a group of 4 decided to create an analysis that shows the best most authentic, affordable and comfortable Airbnb places around New York City. The project was a result of combined work together as one. As a start, we will submit a proposal of what we will be doing to be able to collect the data.
 
